@@ -71,7 +71,7 @@ In consul, we will use the following configuration, which setup a single client/
 ```
 {% endraw %}
 
-For vault, we will replace the *\{\{ consul_token \}\} *withe the one configured previously. This configuration will enable the ui and **disable TLS**, which you should look to enable.
+For vault, we will replace the *\{\{ consul_token \}\}* with the one configured previously. This configuration will enable the ui and **disable TLS**, which you should look to enable.
 #### vault.json
 {% raw %}
 ```json
