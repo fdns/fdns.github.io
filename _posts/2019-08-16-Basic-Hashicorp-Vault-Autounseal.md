@@ -26,7 +26,7 @@ A[Network]
 B[Vault]
 C[Consul]
 D[unsealer]
-E["Backuo (TODO)"]
+E["Backup (TODO)"]
 F[Firewall]
 F --> A
 A --> B
