@@ -1,6 +1,6 @@
 # Site settings
 title:          Felipe
-description:    "Personas war stories and guides"
+description:    "Personas site"
 #baseurl:        "/"
 url:            "https://fdns.github.io"
 
@@ -11,7 +11,7 @@ google_analytics: UA-145906905-1
 author:
   name:         Felipe Espinoza
   url:          https://fdns.github.io
-  email:        felipe.espinoza.ro@gmail.com
+  email:        github@espinoza.dev
 
 # Build settings
 markdown:       kramdown
