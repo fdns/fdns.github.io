@@ -4,7 +4,6 @@ author: Felipe
 layout: post
 ---
 
-# Vault Seal
 HashiCorp Vault default startup state is sealed, meaning that any interruption of the services will mean the Vault will be sealed until manual intervention, inserting the seal keys on the system for it to unlock and start running again.
 
 This is more prominent with on-premise servers, where the auto-unseal features are not as available compared to the clod services, and when the Enterprise features are not available.
